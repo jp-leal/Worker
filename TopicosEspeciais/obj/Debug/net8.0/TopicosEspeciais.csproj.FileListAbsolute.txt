@@ -1,0 +1,14 @@
+/Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/bin/Debug/net8.0/TopicosEspeciais
+/Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/bin/Debug/net8.0/TopicosEspeciais.deps.json
+/Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/bin/Debug/net8.0/TopicosEspeciais.runtimeconfig.json
+/Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/bin/Debug/net8.0/TopicosEspeciais.dll
+/Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/bin/Debug/net8.0/TopicosEspeciais.pdb
+/Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/obj/Debug/net8.0/TopicosEspeciais.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/obj/Debug/net8.0/TopicosEspeciais.AssemblyInfoInputs.cache
+/Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/obj/Debug/net8.0/TopicosEspeciais.AssemblyInfo.cs
+/Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/obj/Debug/net8.0/TopicosEspeciais.csproj.CoreCompileInputs.cache
+/Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/obj/Debug/net8.0/TopicosEspeciais.dll
+/Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/obj/Debug/net8.0/refint/TopicosEspeciais.dll
+/Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/obj/Debug/net8.0/TopicosEspeciais.pdb
+/Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/obj/Debug/net8.0/TopicosEspeciais.genruntimeconfig.cache
+/Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/obj/Debug/net8.0/ref/TopicosEspeciais.dll
