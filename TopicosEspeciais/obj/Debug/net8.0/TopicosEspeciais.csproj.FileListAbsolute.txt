@@ -12,3 +12,4 @@
 /Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/obj/Debug/net8.0/TopicosEspeciais.pdb
 /Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/obj/Debug/net8.0/TopicosEspeciais.genruntimeconfig.cache
 /Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/obj/Debug/net8.0/ref/TopicosEspeciais.dll
+/Users/joaoleal/Documents/CSharp/TopicosEspeciais/TopicosEspeciais/obj/Debug/net8.0/TopicosEspeciais.sourcelink.json
